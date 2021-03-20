@@ -28,7 +28,7 @@ Users should be able to:
 
 Screenshot of desktop solution. 
 
-![](./screenshot.png)
+![](./screenshot-mobile.png)
 
 Screenshot of mobile solution.
 

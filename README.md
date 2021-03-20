@@ -28,9 +28,6 @@ Users should be able to:
 
 Screenshot of desktop solution. 
 
-![](./screenshot-mobile.png)
-
-Screenshot of mobile solution.
 
 ### Links
 
